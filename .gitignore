@@ -1,0 +1,8 @@
+# 忽略 Jupyter Notebook 的自动保存目录
+.ipynb_checkpoints/
+
+# 忽略 VS Code 的本地配置目录
+.vscode/
+
+*.csv
+*.png
